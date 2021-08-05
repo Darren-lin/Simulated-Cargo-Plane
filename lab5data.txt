@@ -1,0 +1,5 @@
+Pallet     PAG    PAG45982IB   737    46000   OAK
+Container  AYF    AYF23409AA   737    2209   LAS
+Container  AAA    AAA89023DL   737    5932   DFW
+Container  AKE    AKE12345IB   767    116000   SFC
+Pallet     APE    APE12345IB   767    5000   SFA
